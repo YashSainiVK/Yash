@@ -1,14 +1,3 @@
-## Hi, I'm Yash
-
-Computer science student<br/>
-
-Studying in VIT Chennai<br/>
-
-Everybody should learn to program a computer, because it teaches you how to think.<br/>
-
-LinkedIn -> https://www.linkedin.com/in/yash-saini-5a41b2379/
-HackerRank -> https://www.hackerrank.com/profile/yashsainivk
-
 # 💫 About Me:
 ## Hi, I'm Yash<br><br>Computer science student<br/><br><br>Studying in VIT Chennai<br/><br><br>Everybody should learn to program a computer, because it teaches you how to think.<br/><br><br>LinkedIn -> https://www.linkedin.com/in/yash-saini-5a41b2379/<br>HackerRank -> https://www.hackerrank.com/profile/yashsainivk<br><br>
 
